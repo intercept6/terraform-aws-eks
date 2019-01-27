@@ -1,0 +1,6 @@
+.envrc
+.kube/*
+manifests/*
+backend.tf
+.terraform*
+blog/*
